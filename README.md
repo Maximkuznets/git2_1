@@ -3,4 +3,4 @@
  * Высокая скорость поиска
  * Низкая цена
 
-![logo](logo.png) 
+![logo](https://drive.google.com/file/d/1B-3SBAXauaIor8rNbgjBdCWQekD8bwS-/view?usp=sharing) 
